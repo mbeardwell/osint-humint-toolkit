@@ -1,6 +1,6 @@
 # UK HUMINT OSINT Toolkit
 
-A curated, UK-focused collection of open-source intelligence (OSINT) resources built for human investigation.
+A curated, UK-focused collection of open-source intelligence (OSINT) resources built for human investigation. Issues and Pulls Welcome.
 
 ## Purpose
 
