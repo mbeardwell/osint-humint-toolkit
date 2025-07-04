@@ -59,7 +59,7 @@ These resources contain only legally-accessible public data however I accept no 
 | BT A-Z | [bt.com/...](https://www.bt.com/help/the-phone-book/a-z-directory-finder) | Phone numbers | No |
 | British Phone Book | [britishphonebook.com](https://www.britishphonebook.com/search.php) | Phone numbers | No |
 | UK OSINT Phone Numbers | [uk-osint.net/...](https://www.uk-osint.net/searchingphonenumbers.html) | Phone numbers | No |
-| mbeardwell's Scripts | [colab.research.google.com/...](https://colab.research.google.com/drive/1hUVAjnQnHAsR3Mis4_ORFum0cK8ofrKa?usp=sharing) | Usernames and Emails (Sherlock & Holehe) | Yes (Google login) |
+| mbeardwell's Scripts | [colab.research.google.com/...](https://colab.research.google.com/drive/1hUVAjnQnHAsR3Mis4_ORFum0cK8ofrKa?usp=sharing) | Usernames and Emails (Sherlock & Holehe)<br>`File > Save a copy in Drive` | Yes (Google login) |
 | Royal Mail 'Find a Postcode' | [royalmail.com/...](https://www.royalmail.com/find-a-postcode) | Postcodes | No |
 | Epieos | [epieos.com](https://epieos.com/) | Emails | No |
 
