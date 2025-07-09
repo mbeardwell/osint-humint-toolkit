@@ -19,8 +19,6 @@ These resources contain only legally-accessible public data however I accept no 
 
 ### Personal Metadata
 
-#### Records
-
 | Name | URL | Notes | Login Required |
 | --- | --- | --- | --- |
 | FreeBMD | [freebmd.org.uk](https://freebmd.org.uk/) | Birth, Marriage & Death (Before 1997) | No |
@@ -31,7 +29,9 @@ These resources contain only legally-accessible public data however I accept no 
 | 192.com | [192.com](https://www.192.com) | Address & Relatives | No |
 | The Gazette | [thegazette.co.uk](https://www.thegazette.co.uk/) | Criminal History | No |
 
-#### Company Data
+---
+
+### Company Data
 
 | Name | URL | Notes | Login Required |
 | --- | --- | --- | --- |
@@ -39,7 +39,9 @@ These resources contain only legally-accessible public data however I accept no 
 | North Data | [northdata.com](https://www.northdata.com/) | Companies & Directors | No |
 | Company Check | [companycheck.co.uk](https://companycheck.co.uk/) | Company & Directors | No |
 
-#### Web Footprint
+---
+
+### Web Footprint
 
 | Name | URL | Notes | Login Required |
 | --- | --- | --- | --- |
@@ -48,8 +50,9 @@ These resources contain only legally-accessible public data however I accept no 
 | CSE Dating Search | [cse.google.com/...](https://cse.google.com/cse?cx=c7b340447e1e12653) | Dating Profile Search | No |
 | Yandex.ru | [yandex.ru](https://yandex.ru/search) | For searching names; different results from Google | No |
 
+---
 
-#### Contact Information
+### Contact Information
 
 | Name | URL | Notes | Login Required |
 | --- | --- | --- | --- |
@@ -63,7 +66,9 @@ These resources contain only legally-accessible public data however I accept no 
 | Royal Mail 'Find a Postcode' | [royalmail.com/...](https://www.royalmail.com/find-a-postcode) | Postcodes | No |
 | Epieos | [epieos.com](https://epieos.com/) | Emails | No |
 
-#### Geolocation
+---
+
+### Geolocation
 
 | Name | URL | Notes | Login Required |
 | --- | --- | --- | --- |
@@ -74,13 +79,17 @@ These resources contain only legally-accessible public data however I accept no 
 | Google Earth | [earth.google.com](https://earth.google.com/) | Satellite Images | No |
 | Copernicus Browser | [browser.dataspace.copernicus.eu](https://browser.dataspace.copernicus.eu/) | Satellite Images | No |
 
-#### Image Search
+---
+
+### Image Search
 
 | Name | URL | Notes | Login Required |
 | --- | --- | --- | --- |
 | Google Reverse Image Search | [images.google.com](https://images.google.com/) | | No |
 | Yandex Reverse Image Search | [yandex.com/images](https://yandex.com/images) | Google alternative | No |
 | TinEye | [tineye.com](https://tineye.com/) | Google alternative | No |
+
+---
 
 ### OpSec
 
@@ -89,7 +98,9 @@ These resources contain only legally-accessible public data however I accept no 
 | This Person Does Not Exist | [this-person-does-not-exist.com](https://this-person-does-not-exist.com/en) | Profile Image Gen | No |
 | Fake Name Generator | [fakenamegenerator.com](https://www.fakenamegenerator.com/) | Personal Metadata Gen | No |
 
-#### Other
+---
+
+### Other
 
 | Name | URL | Notes | Login Required |
 | --- | --- | --- | --- |
